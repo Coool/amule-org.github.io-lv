@@ -45,9 +45,15 @@
     "message": "Uzstādīšana"
   },
   "sidebar.docsSidebar.doc.Quick Start": {
-    "message": "Īsā pamācība"
+    "message": "Ātrā uzsākšana"
   },
   "sidebar.docsSidebar.category.Translations": {
     "message": "Tulkojumi"
+  },
+  "sidebar.docsSidebar.category.Utilities": {
+    "message": "Rīki"
+  },
+  "sidebar.docsSidebar.doc.Overview": {
+    "message": "Pārskats"
   }
 }
